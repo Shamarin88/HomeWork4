@@ -109,9 +109,9 @@ public class Main {
             // Задание 9
         System.out.println("Задание 9");
 
-        int one = 2;
-        int two = 3;
-        int three = 4;
+        int one = 1;
+        int two = 2;
+        int three = 3;
 
         if (one > two && one > three) {
             System.out.println("Наибольшее число - " + one);
